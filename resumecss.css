@@ -1,0 +1,113 @@
+.navbar li {
+  display: inline;
+  font-size: 14px;
+  /*font-weight: bold;*/
+  text-transform: uppercase;
+
+}
+
+.navbar li a {
+	color: white;
+	padding-right: 50px;
+	text-decoration: none;
+}
+
+.navbar li a:hover {
+	color: aqua;
+}
+
+.projects .container h2 {
+	text-align: left;
+	color:#001F3D;
+	font-size: 42px;
+}
+.navbar {
+	text-align: center;
+}
+.navbar {
+	background-color:#001F3D;
+
+}
+.navbar .container {
+	min-height: 30px;
+padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#welcomePage {
+	text-align: center;
+}
+
+.projects p {
+	font-size: 14px;
+	color: #001F3D;
+	padding-top: 5px;
+}
+
+.projects h3 {
+	color: #001F3D;
+	font-size: 20px;
+}
+
+
+#welcomePage p {
+	font-size: 18px;
+	color:#001F3D;
+	text-align: left;
+	text-align: justify;
+	padding-top 25px;
+	}
+#welcomePage h1{
+	text-align: left;
+	color:#001F3D;
+}
+
+#welcomePage button {
+	float: left;
+}
+
+
+
+.jumbotron {
+	min-height: 610px;
+	background-image: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-005.jpg);
+}
+
+
+.button {
+  border: solid;
+  border-radius: 2px 2px 2px 2px;
+  color: #001F3D;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  margin-bottom: 0;
+  margin-top: 10px;
+  padding: 7px 10px;
+  text-transform: none;
+  width: 16.795%; /* auto */
+  text-align: center; /* DELETE WHEN WIDTH AUTO */
+  padding-right: 25px;
+  margin: 10px;
+  background-color: transparent;
+}
+
+.contactMe .jumbotron{
+	background-image: url(http://breadrun.org/wp-content/uploads/2013/05/city-skyline-silhouette-1024x768.jpg);
+}
+
+.contactMe h1 {
+	text-align: left;
+	color:#001F3D;
+	font-size: 42px;
+}
+.contactMe p {
+	font-size: 18px;
+	color:#001F3D;
+	text-align: left;
+	text-align: justify;
+	padding-top 25px;
+}
