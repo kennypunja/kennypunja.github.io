@@ -26,8 +26,10 @@
 }
 .navbar {
 	background-color:#001F3D;
-
 }
+
+
+
 .navbar .container {
 	min-height: 30px;
 padding-top: 5px;
@@ -70,7 +72,7 @@ padding-top: 5px;
 
 .jumbotron {
 	min-height: 610px;
-	background-image: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-005.jpg);
+	background-image: url(https://andykalan.files.wordpress.com/2013/01/city-skyline-wallpapers-005.jpg);
 }
 
 
@@ -96,7 +98,8 @@ padding-top: 5px;
 }
 
 .contactMe .jumbotron{
-	background-image: url(http://breadrun.org/wp-content/uploads/2013/05/city-skyline-silhouette-1024x768.jpg);
+	min-height: 200px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5d/Simmetric_Eiffel_Tower_on_white_background.jpg);
 }
 
 .contactMe h1 {
