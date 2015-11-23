@@ -98,14 +98,17 @@ padding-top: 5px;
 }
 
 .contactMe .jumbotron{
-	min-height: 200px;
-	background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5d/Simmetric_Eiffel_Tower_on_white_background.jpg);
+	min-height: 250px;
+	/*background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5d/Simmetric_Eiffel_Tower_on_white_background.jpg);
+}*/
+	background-image: url(http://www.mrwallpaper.com/wallpapers/Ocean-Waves.jpg);
 }
 
 .contactMe h1 {
 	text-align: left;
 	color:#001F3D;
 	font-size: 42px;
+
 }
 .contactMe p {
 	font-size: 18px;
@@ -114,3 +117,19 @@ padding-top: 5px;
 	text-align: justify;
 	padding-top 25px;
 }
+
+.thumbnail {
+	border: 0px;
+	float: left;
+	min-height: 350px;
+}
+
+.row {
+	color:#001F3D;
+}
+.CSE300 p{
+
+	font-size: 14px;
+}
+
+
